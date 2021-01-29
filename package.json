@@ -1,0 +1,26 @@
+{
+  "name": "pollutreport",
+  "version": "1.0.0",
+  "description": "Site for receiveing datas on planet pollution from API.",
+  "main": "city.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazzacash94/Javascript-Advanced-Site.git"
+  },
+  "keywords": [
+    "author:\"Gianmaria",
+    "Mazza\"",
+    "course:\"Start2Impact\"",
+    "Coding",
+    "Language:\"JS-HTML-CSS\""
+  ],
+  "author": "Gianmaria Mazza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazzacash94/Javascript-Advanced-Site/issues"
+  },
+  "homepage": "https://github.com/mazzacash94/Javascript-Advanced-Site#readme"
+}
