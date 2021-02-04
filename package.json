@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/mazzacash94/Javascript-Advanced-Site/issues"
   },
-  "homepage": "https://github.com/mazzacash94/Javascript-Advanced-Site#readme"
+  "homepage": "https://github.com/mazzacash94/Javascript-Advanced-Site#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
